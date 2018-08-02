@@ -37,5 +37,6 @@
     "image-type": "^2.1.0",
     "jpeg-js": "^0.1.1",
     "png-js": "^0.1.1"
-  }
+  },
+  "types": "./index.d.ts"
 }
