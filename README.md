@@ -75,7 +75,7 @@ Parameters:
 
 ===
 
-##### `.hexToBinary(s)`
+##### `.binaryToHex(s)`
 
 Returns: hex string, eg. `f884c4d8d1193c07`.
 
@@ -86,7 +86,7 @@ Parameters:
 ===
 
 
-##### `.binaryToHex(s)`
+##### `.hexToBinary(s)`
 
 Returns: hex string, eg. `1000100010000010`.
 
